@@ -53,5 +53,5 @@ Credits
 This project is authored by [JULIETTE NGUM]. Special thanks to [COURSE INSTRUCTOR MR CHRISTOPHER].
 License
 
-This project is licensed under the MIT. See .
+This project is licensed under the MIT. 
 
