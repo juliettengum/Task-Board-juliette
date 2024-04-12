@@ -43,13 +43,15 @@ To contribute to the development of this project:
 Here's a look at the Task Board Application in action:
 
 ![Screenshot of the Task Board Application](screenshort.PNG)
+## WEBSITE
+[LINK TO MY WEBSITE](https://juliettengum.github.io/Task-Board-juliette/)
 
 
 
 Credits
 
-This project is authored by [Your Name]. Special thanks to [Acknowledgements].
+This project is authored by [JULIETTE NGUM]. Special thanks to [COURSE INSTRUCTOR MR CHRISTOPHER].
 License
 
-This project is licensed under the [License Name]. See the LICENSE file for details.
+This project is licensed under the MIT. See .
 
